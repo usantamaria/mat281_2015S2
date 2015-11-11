@@ -1,9 +1,7 @@
 # -*- coding: utf-8 -*-
+from helper import color
 import math
 import pdb
-
-def color(string):
-    return '\033[92m'+string+'\033[0m'
 
 def en_una_funcion(x, y, z):
     print color("Ahora estamos dentro de una función.")
