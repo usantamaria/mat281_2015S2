@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-from sols import *
 
 def greetings(st_1, st_2):
     template = "<b>Alumno</b>: {0:30} <b>rol</b>: {1:10}<br>"
