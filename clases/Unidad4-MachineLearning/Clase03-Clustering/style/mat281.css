@@ -1,9 +1,14 @@
 <style>
 
+.reveal {
+overflow: visible;
+}
+
 /*********************************************
  * COLORS FOR EXAMPLES
  *********************************************/
-em {color: #800000;}
+em {font-style: normal !important;
+    color: #800000;}
 span.good {color: #008000;}
 span.warning {color: #808000;}
 span.bad {color: #800000;}
